@@ -1,7 +1,7 @@
 ;(function () {
     'use strict'
   
-    const first_day = '2020-06-23 22:18';
+    const first_day = '2022-10-8 20:00';
   
     function parse(date) {
       const sum = new Date() - Date.parse(date);
